@@ -8,4 +8,4 @@ fraza2
 fraza3
 … itd.
 
-należy pamiętac by nie było pustych wierszy :)
+należy pamiętać by nie było pustych wierszy :)
