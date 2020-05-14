@@ -1,0 +1,4 @@
+fraza1
+fraza2
+fraza3
+...
